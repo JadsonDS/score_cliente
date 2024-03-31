@@ -1,5 +1,0 @@
-pandas==2.2.1
-pil-plus==0.2
-streamlit==1.32.2
-scikit-learn==0.24.2
-
