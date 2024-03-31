@@ -1,0 +1,6 @@
+pandas==2.2.1
+pil-plus==0.2
+streamlit==1.32.2
+sklearn==0.0.post10
+sklearn01==8
+sklearn3==0.0.1
