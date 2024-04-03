@@ -24,17 +24,17 @@ Então para esse projeto em específico entre os dois modelos que nós temos, o 
 
 Claro, que não vai acertar em 100% dos casos, mas uma precisão de 82% já é um valor excelente. Com isso a empresa já conseguiria prever com uma boa acurácia o score dos clientes e com isso pode fazer suas decisões de forma mais eficiente.
 
-# 5 O produto final do projeto:
+# 5. O produto final do projeto:
 Um dashboard iterativo hospedado em cloud que está disponível para acesso de qualquer dispositivo com conexão à internet. Para acessá-los basta clicar no link a seguir: https://score-cliente.streamlit.app/
 
-# 6 Conclusão
+# 6. Conclusão
 Esse projeto foi muito importante para mostrar como podemos fazer tratamento e análise de dados e com isso, ser possível treinar dois modelos de classificação para auxiliar na previsão desses dados. 
 Isso ajudaria a empresa a verificar com uma acurácia de 82% quais os clientes que possuem um bom score e quais as características mais importantes para definir esse score do cliente.
 
 Algo bem importante e que podemos propor algumas soluções, criar modelos de classificação para verificar vários tipos de informação para diminuir prejuízos e aumentar os lucros. 
 Nesse projeto a ideia era diminuir a quantidade de clientes com um score baixo, então foi criado um modelo para fazer uma previsão e ainda conseguir analisar quais os pontos importantes precisamos levar em consideração para análise do score.
 
-# 7 Próximo passos
+# 7. Próximo passos
 As informações juros_empréstimo, mix_credito e divida_total, são características bem importantes. elas vão ajudar bastante na hora de definir o score do cliente, mais do que as outras características, sendo que podemos aprofundar em 
 outras informaões como idade_historico_credito e dias_atraso.
 
